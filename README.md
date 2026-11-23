@@ -1,5 +1,5 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: V B Laksha </h3>
+<h3>Name: V.B.Laksha </h3>
 <h3>Register Number: 212224220051 </h3>
 <h3>Date:23/11/2026</h3>
 <H3>Aim:</H3>
